@@ -44,7 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="6502\6502.cs" />
+    <Compile Include="Mos6502\Mos6502.cs" />
     <Compile Include="CHIP8\CHIP8.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
